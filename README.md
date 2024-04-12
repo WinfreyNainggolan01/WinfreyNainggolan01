@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+ <img src="https://assets.hongkiat.com/uploads/programming-jokes/joke--comic_sleep-cycle.jpg" width="500">
+</div>
