@@ -1,5 +1,5 @@
 ## Hello World! 🌎
-Hey there! I'm **Winfrey Nainggolan**, studying **Information System** at Del Institute of Technology. With a strong passion for **Data Scientist** and **web development**. I'm constantly learning and striving to create innovative and scalable solutions. Let's collaborate and build amazing things together!!!
+Hey there! I'm **Winfrey Nainggolan**, studying **Information System** at Del Institute of Technology. With a strong passion for **Data Scientist** and **Web Development**. I'm constantly learning and striving to create innovative and scalable solutions. Let's collaborate and build amazing things together!!!
 ***
 <!--
 **WinfreyNainggolan01/WinfreyNainggolan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
